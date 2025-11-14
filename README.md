@@ -1,0 +1,2 @@
+# antipatrones
+antiejemplos educativos
